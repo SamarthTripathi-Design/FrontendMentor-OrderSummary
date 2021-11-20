@@ -21,7 +21,7 @@ html {
 }
 
 body {
-  background: hsl(225, 100%, 98%) url(../images/pattern-background-desktop.svg)
+  background: hsl(225, 100%, 98%) url(./images/pattern-background-desktop.svg)
     no-repeat;
 
   display: flex;
